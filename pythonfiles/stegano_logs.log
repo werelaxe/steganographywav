@@ -1,0 +1,480 @@
+wav_file INFO 2016-12-01 20:14:13,648 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:13,648 start reading wav file
+wav_file INFO 2016-12-01 20:14:13,648 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:13,648 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:13,648 start writing in wav file
+data_steg INFO 2016-12-01 20:14:13,649 start writing data with size = 100
+data_steg INFO 2016-12-01 20:14:14,174 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:14:14,175 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,175 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,175 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:14,175 start writing data with size = 100
+wav_file INFO 2016-12-01 20:14:14,182 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,182 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,182 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:14,182 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,182 start writing in wav file
+data_steg INFO 2016-12-01 20:14:14,182 start writing data with size = 100
+data_steg INFO 2016-12-01 20:14:14,404 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:14:14,404 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,404 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,404 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:14,404 start writing data with size = 50
+data_steg INFO 2016-12-01 20:14:14,406 start writing data with size = 50
+steganography INFO 2016-12-01 20:14:14,427 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:14:14,427 mark was successfully created
+steganography INFO 2016-12-01 20:14:14,427 data was successfully created
+wav_file INFO 2016-12-01 20:14:14,427 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,428 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,428 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:14,428 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,428 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,428 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:14,428 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,428 start writing in wav file
+data_steg INFO 2016-12-01 20:14:14,428 start writing data with size = 44
+data_steg INFO 2016-12-01 20:14:14,634 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:14:14,634 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7f1796a30f98> with <wav_file.WavFile object at 0x7f1796a30be0> was successfully completed
+steganography INFO 2016-12-01 20:14:14,634 start reading files from out.wav
+wav_file INFO 2016-12-01 20:14:14,634 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,634 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,634 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:14,635 start writing data with size = 1
+steganography INFO 2016-12-01 20:14:14,635 size was successfully read
+data_steg INFO 2016-12-01 20:14:14,635 start writing data with size = 31
+steganography INFO 2016-12-01 20:14:14,637 label was successfully read
+data_steg INFO 2016-12-01 20:14:14,637 start writing data with size = 12
+steganography INFO 2016-12-01 20:14:14,638 reading files from out.wavwas successfully completed
+steganography INFO 2016-12-01 20:14:14,642 start writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:14:14,643 mark was successfully created
+steganography INFO 2016-12-01 20:14:14,677 data was successfully created
+wav_file INFO 2016-12-01 20:14:14,677 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,677 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,678 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:14,678 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,678 start reading wav file
+wav_file INFO 2016-12-01 20:14:14,678 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:14,678 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:14,678 start writing in wav file
+data_steg INFO 2016-12-01 20:14:14,678 start writing data with size = 51023
+data_steg INFO 2016-12-01 20:14:17,196 writing 51023 bytes successfully complete
+steganography INFO 2016-12-01 20:14:17,196 writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] to <wav_file.WavFile object at 0x7f1796a30be0> with <wav_file.WavFile object at 0x7f1796ca4588> was successfully completed
+wav_file INFO 2016-12-01 20:14:17,196 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,196 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,196 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:17,197 start writing data with size = 1
+steganography INFO 2016-12-01 20:14:17,197 size was successfully read
+data_steg INFO 2016-12-01 20:14:17,197 start writing data with size = 79
+steganography INFO 2016-12-01 20:14:17,199 label was successfully read
+steganography INFO 2016-12-01 20:14:17,199 listing was successfully completed
+steganography INFO 2016-12-01 20:14:17,203 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:14:17,204 mark was successfully created
+steganography INFO 2016-12-01 20:14:17,204 data was successfully created
+wav_file INFO 2016-12-01 20:14:17,204 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,204 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,204 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:17,204 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,204 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,204 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:17,204 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,204 start writing in wav file
+data_steg INFO 2016-12-01 20:14:17,204 start writing data with size = 44
+data_steg INFO 2016-12-01 20:14:17,411 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:14:17,411 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7f1796a30b00> with <wav_file.WavFile object at 0x7f1796ca45f8> was successfully completed
+steganography INFO 2016-12-01 20:14:17,412 start reading files from out.wav
+wav_file INFO 2016-12-01 20:14:17,412 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,412 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,412 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:17,412 start writing data with size = 1
+steganography INFO 2016-12-01 20:14:17,412 size was successfully read
+data_steg INFO 2016-12-01 20:14:17,412 start writing data with size = 31
+steganography INFO 2016-12-01 20:14:17,413 label was successfully read
+data_steg INFO 2016-12-01 20:14:17,414 start writing data with size = 12
+steganography INFO 2016-12-01 20:14:17,414 reading files from out.wavwas successfully completed
+steganography INFO 2016-12-01 20:14:17,418 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:14:17,419 mark was successfully created
+steganography INFO 2016-12-01 20:14:17,419 data was successfully created
+wav_file INFO 2016-12-01 20:14:17,419 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,419 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,419 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:17,419 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,419 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,419 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:17,419 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,419 start writing in wav file
+data_steg INFO 2016-12-01 20:14:17,420 start writing data with size = 44
+data_steg INFO 2016-12-01 20:14:17,637 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:14:17,637 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7f1796ca45f8> with <wav_file.WavFile object at 0x7f1796ca4588> was successfully completed
+steganography INFO 2016-12-01 20:14:17,637 start reading files from out.wav
+wav_file INFO 2016-12-01 20:14:17,638 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,638 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,638 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:14:17,638 start writing data with size = 1
+steganography INFO 2016-12-01 20:14:17,638 size was successfully read
+data_steg INFO 2016-12-01 20:14:17,638 start writing data with size = 31
+steganography INFO 2016-12-01 20:14:17,639 label was successfully read
+data_steg INFO 2016-12-01 20:14:17,639 start writing data with size = 12
+steganography INFO 2016-12-01 20:14:17,640 reading files from out.wavwas successfully completed
+wav_file INFO 2016-12-01 20:14:17,644 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,644 start reading wav file
+wav_file INFO 2016-12-01 20:14:17,644 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:14:17,645 start logging in wavfile
+wav_file INFO 2016-12-01 20:14:17,645 start writing in wav file
+wav_file INFO 2016-12-01 20:19:35,558 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:35,558 start reading wav file
+wav_file INFO 2016-12-01 20:19:35,558 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:35,558 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:35,558 start writing in wav file
+data_steg INFO 2016-12-01 20:19:35,558 start writing data with size = 100
+data_steg INFO 2016-12-01 20:19:35,781 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:19:35,781 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:35,781 start reading wav file
+wav_file INFO 2016-12-01 20:19:35,781 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:19:35,782 start writing data with size = 100
+wav_file INFO 2016-12-01 20:19:35,788 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:35,789 start reading wav file
+wav_file INFO 2016-12-01 20:19:35,789 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:35,789 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:35,789 start writing in wav file
+data_steg INFO 2016-12-01 20:19:35,789 start writing data with size = 100
+data_steg INFO 2016-12-01 20:19:36,004 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:19:36,004 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,005 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,005 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:19:36,005 start writing data with size = 50
+data_steg INFO 2016-12-01 20:19:36,007 start writing data with size = 50
+steganography INFO 2016-12-01 20:19:36,012 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:19:36,012 mark was successfully created
+steganography INFO 2016-12-01 20:19:36,012 data was successfully created
+wav_file INFO 2016-12-01 20:19:36,012 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,013 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,013 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:36,013 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,013 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,013 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:36,013 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,013 start writing in wav file
+data_steg INFO 2016-12-01 20:19:36,013 start writing data with size = 44
+data_steg INFO 2016-12-01 20:19:36,239 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:19:36,240 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7f4f8f440f98> with <wav_file.WavFile object at 0x7f4f8f440be0> was successfully completed
+steganography INFO 2016-12-01 20:19:36,240 start reading files from out.wav
+wav_file INFO 2016-12-01 20:19:36,240 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,240 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,240 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:19:36,240 start writing data with size = 1
+steganography INFO 2016-12-01 20:19:36,241 size was successfully read
+data_steg INFO 2016-12-01 20:19:36,241 start writing data with size = 31
+steganography INFO 2016-12-01 20:19:36,242 label was successfully read
+data_steg INFO 2016-12-01 20:19:36,242 start writing data with size = 12
+steganography INFO 2016-12-01 20:19:36,243 reading files from out.wavwas successfully completed
+steganography INFO 2016-12-01 20:19:36,247 start writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:19:36,248 mark was successfully created
+steganography INFO 2016-12-01 20:19:36,248 data was successfully created
+wav_file INFO 2016-12-01 20:19:36,248 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,248 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,248 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:36,248 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,248 start reading wav file
+wav_file INFO 2016-12-01 20:19:36,248 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:36,248 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:36,248 start writing in wav file
+data_steg INFO 2016-12-01 20:19:36,249 start writing data with size = 51023
+data_steg INFO 2016-12-01 20:19:38,644 writing 51023 bytes successfully complete
+steganography INFO 2016-12-01 20:19:38,645 writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] to <wav_file.WavFile object at 0x7f4f8f440be0> with <wav_file.WavFile object at 0x7f4f8f6b6588> was successfully completed
+wav_file INFO 2016-12-01 20:19:38,645 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,645 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,645 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:19:38,645 start writing data with size = 1
+steganography INFO 2016-12-01 20:19:38,645 size was successfully read
+data_steg INFO 2016-12-01 20:19:38,646 start writing data with size = 79
+steganography INFO 2016-12-01 20:19:38,648 label was successfully read
+steganography INFO 2016-12-01 20:19:38,648 listing was successfully completed
+steganography INFO 2016-12-01 20:19:38,652 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:19:38,652 mark was successfully created
+steganography INFO 2016-12-01 20:19:38,653 data was successfully created
+wav_file INFO 2016-12-01 20:19:38,653 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,653 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,653 some trash was successfully parsed
+steganography ERROR 2016-12-01 20:19:38,653 size of file more than size of storage
+steganography INFO 2016-12-01 20:19:38,654 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:19:38,655 mark was successfully created
+steganography INFO 2016-12-01 20:19:38,655 data was successfully created
+wav_file INFO 2016-12-01 20:19:38,655 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,655 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,655 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:38,655 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,655 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,655 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:38,655 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,655 start writing in wav file
+data_steg INFO 2016-12-01 20:19:38,656 start writing data with size = 44
+data_steg INFO 2016-12-01 20:19:38,859 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:19:38,859 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7f4f8f6b65f8> with <wav_file.WavFile object at 0x7f4f8f6b6898> was successfully completed
+steganography INFO 2016-12-01 20:19:38,859 start reading files from out.wav
+wav_file INFO 2016-12-01 20:19:38,860 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,860 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,860 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:19:38,860 start writing data with size = 1
+steganography INFO 2016-12-01 20:19:38,860 size was successfully read
+data_steg INFO 2016-12-01 20:19:38,860 start writing data with size = 31
+steganography INFO 2016-12-01 20:19:38,861 label was successfully read
+data_steg INFO 2016-12-01 20:19:38,861 start writing data with size = 12
+steganography INFO 2016-12-01 20:19:38,862 reading files from out.wavwas successfully completed
+wav_file INFO 2016-12-01 20:19:38,866 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,866 start reading wav file
+wav_file INFO 2016-12-01 20:19:38,866 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:19:38,867 start logging in wavfile
+wav_file INFO 2016-12-01 20:19:38,867 start writing in wav file
+wav_file INFO 2016-12-01 20:39:11,551 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:11,552 start reading wav file
+wav_file INFO 2016-12-01 20:39:11,552 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:11,552 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:11,552 start writing in wav file
+data_steg INFO 2016-12-01 20:39:11,552 start writing data with size = 100
+data_steg INFO 2016-12-01 20:39:11,826 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:39:11,827 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:11,827 start reading wav file
+wav_file INFO 2016-12-01 20:39:11,827 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:11,827 start writing data with size = 100
+wav_file INFO 2016-12-01 20:39:11,835 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:11,835 start reading wav file
+wav_file INFO 2016-12-01 20:39:11,835 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:11,835 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:11,836 start writing in wav file
+data_steg INFO 2016-12-01 20:39:11,836 start writing data with size = 100
+data_steg INFO 2016-12-01 20:39:12,065 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:39:12,065 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,065 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,066 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:12,066 start writing data with size = 50
+data_steg INFO 2016-12-01 20:39:12,067 start writing data with size = 50
+steganography INFO 2016-12-01 20:39:12,111 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:12,111 mark was successfully created
+steganography INFO 2016-12-01 20:39:12,111 data was successfully created
+wav_file INFO 2016-12-01 20:39:12,111 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,111 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,112 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:12,112 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,112 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,112 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:12,112 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,112 start writing in wav file
+data_steg INFO 2016-12-01 20:39:12,112 start writing data with size = 44
+data_steg INFO 2016-12-01 20:39:12,327 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:39:12,329 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7fb3628f1160> with <wav_file.WavFile object at 0x7fb3628fcc50> was successfully completed
+steganography INFO 2016-12-01 20:39:12,330 start reading files from out.wav
+wav_file INFO 2016-12-01 20:39:12,330 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,330 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,330 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:12,330 start writing data with size = 1
+steganography INFO 2016-12-01 20:39:12,330 size was successfully read
+data_steg INFO 2016-12-01 20:39:12,331 start writing data with size = 31
+steganography INFO 2016-12-01 20:39:12,332 label was successfully read
+data_steg INFO 2016-12-01 20:39:12,332 start writing data with size = 12
+steganography INFO 2016-12-01 20:39:12,332 reading files from out.wavwas successfully completed
+steganography INFO 2016-12-01 20:39:12,337 start writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:12,337 mark was successfully created
+steganography INFO 2016-12-01 20:39:12,337 data was successfully created
+wav_file INFO 2016-12-01 20:39:12,337 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,338 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,338 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:12,338 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,338 start reading wav file
+wav_file INFO 2016-12-01 20:39:12,338 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:12,338 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:12,338 start writing in wav file
+data_steg INFO 2016-12-01 20:39:12,338 start writing data with size = 51023
+data_steg INFO 2016-12-01 20:39:14,908 writing 51023 bytes successfully complete
+steganography INFO 2016-12-01 20:39:14,908 writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] to <wav_file.WavFile object at 0x7fb362b7a860> with <wav_file.WavFile object at 0x7fb362b7a6d8> was successfully completed
+wav_file INFO 2016-12-01 20:39:14,908 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:14,908 start reading wav file
+wav_file INFO 2016-12-01 20:39:14,908 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:14,909 start writing data with size = 1
+steganography INFO 2016-12-01 20:39:14,909 size was successfully read
+data_steg INFO 2016-12-01 20:39:14,909 start writing data with size = 79
+steganography INFO 2016-12-01 20:39:14,911 label was successfully read
+steganography INFO 2016-12-01 20:39:14,911 listing was successfully completed
+steganography INFO 2016-12-01 20:39:14,916 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:14,916 mark was successfully created
+steganography INFO 2016-12-01 20:39:14,916 data was successfully created
+wav_file INFO 2016-12-01 20:39:14,916 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:14,916 start reading wav file
+wav_file INFO 2016-12-01 20:39:14,917 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:14,917 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:14,917 start reading wav file
+wav_file INFO 2016-12-01 20:39:14,917 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:14,917 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:14,917 start writing in wav file
+data_steg INFO 2016-12-01 20:39:14,917 start writing data with size = 44
+data_steg INFO 2016-12-01 20:39:15,140 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:39:15,141 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7fb362b7a860> with <wav_file.WavFile object at 0x7fb362b7a748> was successfully completed
+steganography INFO 2016-12-01 20:39:15,142 start reading files from out.wav
+wav_file INFO 2016-12-01 20:39:15,142 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,142 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,142 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:15,142 start writing data with size = 1
+steganography INFO 2016-12-01 20:39:15,142 size was successfully read
+data_steg INFO 2016-12-01 20:39:15,143 start writing data with size = 31
+steganography INFO 2016-12-01 20:39:15,144 label was successfully read
+data_steg INFO 2016-12-01 20:39:15,144 start writing data with size = 12
+steganography INFO 2016-12-01 20:39:15,145 reading files from out.wavwas successfully completed
+steganography INFO 2016-12-01 20:39:15,150 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] without compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:15,150 mark was successfully created
+steganography INFO 2016-12-01 20:39:15,150 data was successfully created
+wav_file INFO 2016-12-01 20:39:15,150 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,150 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,150 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,150 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,151 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,151 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,151 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,151 start writing in wav file
+data_steg INFO 2016-12-01 20:39:15,151 start writing data with size = 44
+data_steg INFO 2016-12-01 20:39:15,371 writing 44 bytes successfully complete
+steganography INFO 2016-12-01 20:39:15,371 writing files [<_io.BufferedReader name='../files/textfile.txt'>] to <wav_file.WavFile object at 0x7fb362b7a860> with <wav_file.WavFile object at 0x7fb362b7a6d8> was successfully completed
+steganography INFO 2016-12-01 20:39:15,372 start reading files from out.wav
+wav_file INFO 2016-12-01 20:39:15,372 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,372 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,372 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:15,372 start writing data with size = 1
+steganography INFO 2016-12-01 20:39:15,372 size was successfully read
+data_steg INFO 2016-12-01 20:39:15,373 start writing data with size = 31
+steganography INFO 2016-12-01 20:39:15,374 label was successfully read
+data_steg INFO 2016-12-01 20:39:15,374 start writing data with size = 12
+steganography INFO 2016-12-01 20:39:15,374 reading files from out.wavwas successfully completed
+wav_file INFO 2016-12-01 20:39:15,379 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,379 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,379 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,379 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,379 start writing in wav file
+wav_file INFO 2016-12-01 20:39:15,380 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,380 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,380 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,380 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,380 start writing in wav file
+data_steg INFO 2016-12-01 20:39:15,380 start writing data with size = 100
+data_steg INFO 2016-12-01 20:39:15,607 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:39:15,608 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,608 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,608 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:15,608 start writing data with size = 100
+wav_file INFO 2016-12-01 20:39:15,616 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,616 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,616 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,616 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,616 start writing in wav file
+data_steg INFO 2016-12-01 20:39:15,617 start writing data with size = 100
+data_steg INFO 2016-12-01 20:39:15,844 writing 100 bytes successfully complete
+wav_file INFO 2016-12-01 20:39:15,845 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,845 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,845 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:15,845 start writing data with size = 50
+data_steg INFO 2016-12-01 20:39:15,847 start writing data with size = 50
+steganography INFO 2016-12-01 20:39:15,852 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:15,852 mark was successfully created
+steganography INFO 2016-12-01 20:39:15,852 data was successfully created
+steganography INFO 2016-12-01 20:39:15,853 data was successfully compressed and finalize
+wav_file INFO 2016-12-01 20:39:15,853 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,853 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,853 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,853 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,853 start reading wav file
+wav_file INFO 2016-12-01 20:39:15,853 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:15,853 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:15,853 start writing in wav file
+data_steg INFO 2016-12-01 20:39:15,853 start writing data with size = 91
+data_steg INFO 2016-12-01 20:39:16,085 writing 91 bytes successfully complete
+steganography INFO 2016-12-01 20:39:16,085 writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to<wav_file.WavFile object at 0x7fb3628fcc18> with <wav_file.WavFile object at 0x7fb3628fcc50> was successfully completed
+steganography INFO 2016-12-01 20:39:16,085 start reading files with compression from out.wav
+wav_file INFO 2016-12-01 20:39:16,086 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:16,086 start reading wav file
+wav_file INFO 2016-12-01 20:39:16,086 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:16,086 start writing data with size = 27
+steganography INFO 2016-12-01 20:39:16,087 size was successfully read
+data_steg INFO 2016-12-01 20:39:16,087 start writing data with size = 64
+steganography INFO 2016-12-01 20:39:16,089 data with size 64 was successfully completed
+steganography INFO 2016-12-01 20:39:16,089 size was successfully read
+steganography INFO 2016-12-01 20:39:16,089 label was successfully read
+steganography INFO 2016-12-01 20:39:16,090 reading files with compression from out.wav was successfully completed
+steganography INFO 2016-12-01 20:39:16,096 start writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] with compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:16,096 mark was successfully created
+steganography INFO 2016-12-01 20:39:16,096 data was successfully created
+steganography INFO 2016-12-01 20:39:16,099 data was successfully compressed and finalize
+wav_file INFO 2016-12-01 20:39:16,099 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:16,100 start reading wav file
+wav_file INFO 2016-12-01 20:39:16,100 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:16,100 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:16,100 start reading wav file
+wav_file INFO 2016-12-01 20:39:16,100 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:16,100 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:16,100 start writing in wav file
+data_steg INFO 2016-12-01 20:39:16,100 start writing data with size = 50247
+data_steg INFO 2016-12-01 20:39:18,518 writing 50247 bytes successfully complete
+steganography INFO 2016-12-01 20:39:18,518 writing files [<_io.BufferedReader name='../files/textfile.txt'>, <_io.BufferedReader name='../files/python.jpg'>, <_io.BufferedReader name='../files/archive.rar'>] with compression to<wav_file.WavFile object at 0x7fb3628fcc50> with <wav_file.WavFile object at 0x7fb362904f60> was successfully completed
+wav_file INFO 2016-12-01 20:39:18,519 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:18,519 start reading wav file
+wav_file INFO 2016-12-01 20:39:18,519 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:18,519 start writing data with size = 27
+steganography INFO 2016-12-01 20:39:18,520 size was successfully read
+data_steg INFO 2016-12-01 20:39:18,520 start writing data with size = 50220
+steganography INFO 2016-12-01 20:39:20,002 data with size 50220 was successfully completed
+steganography INFO 2016-12-01 20:39:20,003 size was successfully read
+steganography INFO 2016-12-01 20:39:20,003 label was successfully read
+steganography INFO 2016-12-01 20:39:20,003 listing with compression was successfully completed
+steganography INFO 2016-12-01 20:39:20,007 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:20,008 mark was successfully created
+steganography INFO 2016-12-01 20:39:20,008 data was successfully created
+steganography INFO 2016-12-01 20:39:20,008 data was successfully compressed and finalize
+wav_file INFO 2016-12-01 20:39:20,008 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,008 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,008 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:20,009 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,009 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,009 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:20,009 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,009 start writing in wav file
+data_steg INFO 2016-12-01 20:39:20,009 start writing data with size = 91
+data_steg INFO 2016-12-01 20:39:20,239 writing 91 bytes successfully complete
+steganography INFO 2016-12-01 20:39:20,239 writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to<wav_file.WavFile object at 0x7fb3628fcc18> with <wav_file.WavFile object at 0x7fb3628fcc50> was successfully completed
+steganography INFO 2016-12-01 20:39:20,240 start reading files with compression from out.wav
+wav_file INFO 2016-12-01 20:39:20,240 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,240 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,240 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:20,240 start writing data with size = 27
+steganography INFO 2016-12-01 20:39:20,243 size was successfully read
+data_steg INFO 2016-12-01 20:39:20,243 start writing data with size = 64
+steganography INFO 2016-12-01 20:39:20,250 data with size 64 was successfully completed
+steganography INFO 2016-12-01 20:39:20,250 size was successfully read
+steganography INFO 2016-12-01 20:39:20,250 label was successfully read
+steganography INFO 2016-12-01 20:39:20,251 reading files with compression from out.wav was successfully completed
+steganography INFO 2016-12-01 20:39:20,255 start writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to out.wav with ../wav files/music.wav
+steganography INFO 2016-12-01 20:39:20,255 mark was successfully created
+steganography INFO 2016-12-01 20:39:20,255 data was successfully created
+steganography INFO 2016-12-01 20:39:20,255 data was successfully compressed and finalize
+wav_file INFO 2016-12-01 20:39:20,255 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,255 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,255 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:20,255 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,256 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,256 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:20,256 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,256 start writing in wav file
+data_steg INFO 2016-12-01 20:39:20,256 start writing data with size = 91
+data_steg INFO 2016-12-01 20:39:20,474 writing 91 bytes successfully complete
+steganography INFO 2016-12-01 20:39:20,474 writing files [<_io.BufferedReader name='../files/textfile.txt'>] with compression to<wav_file.WavFile object at 0x7fb3628fcc50> with <wav_file.WavFile object at 0x7fb362904f60> was successfully completed
+steganography INFO 2016-12-01 20:39:20,474 start reading files with compression from out.wav
+wav_file INFO 2016-12-01 20:39:20,474 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,474 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,475 some trash was successfully parsed
+data_steg INFO 2016-12-01 20:39:20,475 start writing data with size = 27
+steganography INFO 2016-12-01 20:39:20,476 size was successfully read
+data_steg INFO 2016-12-01 20:39:20,476 start writing data with size = 64
+steganography INFO 2016-12-01 20:39:20,478 data with size 64 was successfully completed
+steganography INFO 2016-12-01 20:39:20,478 size was successfully read
+steganography INFO 2016-12-01 20:39:20,478 label was successfully read
+steganography INFO 2016-12-01 20:39:20,478 reading files with compression from out.wav was successfully completed
+wav_file INFO 2016-12-01 20:39:20,483 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,483 start reading wav file
+wav_file INFO 2016-12-01 20:39:20,483 some trash was successfully parsed
+wav_file INFO 2016-12-01 20:39:20,483 start logging in wavfile
+wav_file INFO 2016-12-01 20:39:20,483 start writing in wav file
