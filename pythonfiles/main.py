@@ -5,7 +5,8 @@ import parse_arguments
 import steganography
 import data_steg
 import wav_file
-from steganography_exceptions import DecodingError
+from steganography_exceptions import DecodingError, WavFileError,\
+    TooLargeDataError
 
 
 def process_password(password):
@@ -45,11 +46,11 @@ def writing_files(files, in_filename,
         except FileNotFoundError:
             pass
         file_list = map(lambda x: open(x, 'rb'), files)
-        with open(in_filename, 'rb') as in_file,\
+        with open(in_filename, 'rb') as in_file, \
                 open(out_filename, 'ab') as out_file:
-                steganography.write_files(
-                    in_file, out_file, file_list,
-                    noise, mask, compress=compress)
+            steganography.write_files(
+                in_file, out_file, file_list,
+                noise, mask, compress=compress)
         if same_io:
             os.rename('tmp.wav', old_out_filename)
 
@@ -66,28 +67,37 @@ def reading_files(reading, in_filename, outdir, mask, compress):
 
 
 def main():
+    out_filename = None
+    nowarnings = None
+    noise = None
     parser = parse_arguments.get_parser()
     if len(sys.argv) == 1:
         parser.print_help()
         sys.exit(0)
     args = vars(parser.parse_args(sys.argv[1:]))
+    # return
     in_filename = args['input']
-    noise = args['noise']
-    out_filename = args['output']
+
     compress = args['compress']
     password = args['password']
     storage = args['storage']
     listing = args['listing']
-    nowarnings = args['nowarnings']
     loggingon = args['loggingon']
     mask = args['mask']
-    if args['files'] is not None:
+    if 'files' in args:
+        files = args['files']
+    else:
+        files = None
+    if files is not None:
         files = args['files'].split(',')
         for file in files:
             if not os.path.exists(file):
                 print('Sorry, but input binary '
                       'file {} doesn\'t exist'.format(file))
                 sys.exit(2)
+        nowarnings = args['nowarnings']
+        out_filename = args['output']
+        noise = args['noise']
     else:
         files = None
     outdir = args['outdir']
@@ -95,18 +105,31 @@ def main():
         print('Sorry, but output directory {} doesn\'t exist'.format(outdir))
         sys.exit(2)
 
-    reading = args['read']
+    if 'read' in args:
+        reading = args['read']
+    else:
+        reading = False
+
     steganography.initialize_steganography(loggingon)
     wav_file.initialize_wav_file(loggingon)
     data_steg.initialize_data_steg(loggingon)
     if password is not None:
         mask = process_password(password)
-    process_storage(storage, in_filename, mask)
-    process_listing(listing, in_filename, mask, compress)
-    writing_files(files, in_filename, out_filename,
-                  noise, mask, compress, nowarnings)
-    reading_files(reading, in_filename, outdir, mask, compress)
+    try:
+        process_storage(storage, in_filename, mask)
+        process_listing(listing, in_filename, mask, compress)
+        writing_files(files, in_filename, out_filename,
+                      noise, mask, compress, nowarnings)
+        reading_files(reading, in_filename, outdir, mask, compress)
 
+    except WavFileError:
+        print("Unsupported file format")
+
+    except TooLargeDataError:
+        print("Too large files to write")
+    except DecodingError:
+        print("Decodin error, try change mask or password")
+        sys.exit(2)
 
 if __name__ == '__main__':
     main()
